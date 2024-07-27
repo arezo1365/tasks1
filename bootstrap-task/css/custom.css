@@ -1,0 +1,97 @@
+@media (max-width: 575.98px) { 
+   .navbar form{
+        display: inline-block !important;
+    }
+    .form-control{
+        margin-bottom: 2rem;
+    }
+    .main-banner .banner {
+        width: 430px;
+        height: 60%;
+       
+    }
+ }
+ .bg-color{
+    background: linear-gradient(100deg,rgb(167, 170, 167),rgb(5, 238, 238)); 
+ }
+
+ .form-control{
+    margin-right: 1rem;
+ }
+ form button{
+    border: 1px solid black;
+ }
+
+ .fs1{
+    font-size: 25px;
+    font-weight:400;
+ }
+ .banner{
+    width: 900px;
+    background-image: url('/images/service-8.jpg');
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    position: relative;
+ }
+
+ .banner-text {
+    background-color: #6c757d;
+    width: 40vw;
+    border-radius: 10px;
+    padding: 15px;
+    position: absolute;
+    top: 3vw;
+    left: 3vw;
+}
+.img-banner{
+    width: 35vw;
+}
+.contact-banner{
+    margin: 25px 0;
+}
+.main-banner{
+    width: 100%;
+    height: 500px;
+}
+.contact-banner p {
+    font-size: 1.5vw;
+    font-weight: 100;
+}
+.btn-banner {
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 8px 13px;
+    border-radius: 5px;
+    border: none;
+    background-color: #6c757d;
+   
+}
+.btn-banner:hover{
+    background-color: #848a8f;
+}
+.text-row {
+    /* background-color: #6c757d; */
+    background: linear-gradient(380deg,rgb(35, 36, 35),rgb(96, 147, 189));
+    margin: 100px 0;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(113, 196, 252);
+    font-size: 15px;
+}
+.text-row h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+.footer{
+    background: linear-gradient(380deg,rgb(120, 225,100),rgb(40, 54, 31));
+}
+.footer-text h4{
+    font-size: 1.5rem;
+}
+.footer-text span{
+    font-size: 0.8rem;
+}
